@@ -1,7 +1,8 @@
+Please use tutorial entry site: https://eic-detector.github.io/
 
 # Welcome
 
-This tutorial respository carries a few example cases of analysis for [sPHENIX collaboration](https://www.sphenix.bnl.gov/):
+This tutorial respository carries a few example cases of analysis for [sPHENIX collaboration](https://www.sphenix.bnl.gov/) and for EIC studies:
 * Generators
   * __eventgenerator_display__: Display the output of our event generators in an empty world
 * Simulation setups
